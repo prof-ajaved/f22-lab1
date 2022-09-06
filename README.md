@@ -1,4 +1,4 @@
-# comp-367-lab1-githubflow
+# lab1
 
 Lab used to learn about github issues, labels and pull requests.
 
